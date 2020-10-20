@@ -1,0 +1,15 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "//":"^表示第一 位版本号不变，后面两位取最新的 ~表示前两位不变，最后一个取最新*表示全部取最新",
+    "md5": "^2.3.0"
+  }
+}
